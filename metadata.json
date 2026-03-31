@@ -1,0 +1,5 @@
+{
+  "name": "The Legacy Hunter",
+  "description": "An autonomous Recursive Skill Learner that hunts for tech skills, synthesizes them into executable programs, and builds your engineering legacy.",
+  "requestFramePermissions": []
+}
