@@ -2,6 +2,12 @@
 
 **The Legacy Hunter** is an autonomous Recursive Skill Learner designed to turn your engineering career into a legendary journey. It doesn't just answer questions; it hunts for capabilities, synthesizes them into executable "Skill Programs," and builds a persistent record of your growth.
 
+### Screenshots
+
+<img width="1399" height="1146" alt="Screenshot at Mar 31 23-32-45" src="https://github.com/user-attachments/assets/797d2822-411b-4809-84e9-e12e3764667e" />
+<img width="1396" height="1146" alt="Screenshot at Mar 31 23-45-08" src="https://github.com/user-attachments/assets/7e982ffa-a470-424d-a6d5-d7243c621586" />
+<img width="1395" height="1149" alt="Screenshot at Mar 31 23-45-24" src="https://github.com/user-attachments/assets/66d78368-6593-4513-966a-df37857ca1ed" />
+
 ## The Vision
 In the age of AI, the bottleneck isn't information—it's **synthesis and verification**. The Legacy Hunter acts as your co-traveler, scouring the web for the best tech docs, boiling them down into AI-optimized tutorials, and challenging you to verify them through practical "Test Tasks."
 
